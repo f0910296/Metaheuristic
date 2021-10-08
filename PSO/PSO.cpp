@@ -69,4 +69,9 @@ void PSO::run(){ // The main function of PSO.
   
     avg /= runs;
     cout << "Average fitness: " << avg << endl;
+    cout << "Average fitness: " << avg << endl;
+    cout << "Average fitness: " << avg << endl;
+    cout << "Average fitness: " << avg << endl;
+    cout << "Average fitness: " << avg << endl;
+    cout << "Average fitness: " << avg << endl;
 }
